@@ -422,7 +422,7 @@ box-sizing: border-box;
     margin-right: 20px;
 }
 .intArrow .arrowImg {
-    background: url(/site/wp-content/plugins/zoho-forms/tinymce/paramtrArrow.jpg) no-repeat;
+    background: url(/wp-content/plugins/zoho-forms/tinymce/paramtrArrow.jpg) no-repeat;
    width: 5px;
     height: 10px;
     display: block;
@@ -434,7 +434,7 @@ box-sizing: border-box;
 .fiedPropPlus, .fiedPropMinus{ 
    width: 24px;
    height: 24px;
-   background: url(/site/wp-content/plugins/zoho-forms/tinymce/fieldprop-plus.png) no-repeat; 
+   background: url(/wp-content/plugins/zoho-forms/tinymce/fieldprop-plus.png) no-repeat; 
    background-size: contain;
    margin-top: 2px; 
    float: left; cursor: pointer; 
@@ -442,7 +442,7 @@ box-sizing: border-box;
    left: 0px !important;
 }
 .fiedPropMinus {
-    background: url(/site/wp-content/plugins/zoho-forms/tinymce/fieldprop-minus.png) no-repeat; background-size: contain;
+    background: url(/wp-content/plugins/zoho-forms/tinymce/fieldprop-minus.png) no-repeat; background-size: contain;
     margin-left: 8px;
 }
 

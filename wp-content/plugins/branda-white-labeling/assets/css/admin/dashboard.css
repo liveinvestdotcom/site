@@ -90,7 +90,7 @@
 }
 .branda-admin-page #branda-manage-all-modules .sui-box-header,
 .branda-admin-page .branda-welcome-step2 #branda-welcome .sui-box-header {
-  background-image: url(/site/wp-content/plugins/branda-white-labeling/assets/assets/images/branda/circle-confused@2x.png);
+  background-image: url(/wp-content/plugins/branda-white-labeling/assets/assets/images/branda/circle-confused@2x.png);
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: 130px 130px;
@@ -124,7 +124,7 @@
   position: static;
 }
 .branda-admin-page .sui-wrap.sui-wrap-branda.branda-import-import .sui-header {
-  background-image: url(/site/wp-content/plugins/branda-white-labeling/assets/assets/images/branda/circle-confused@2x.png);
+  background-image: url(/wp-content/plugins/branda-white-labeling/assets/assets/images/branda/circle-confused@2x.png);
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: 130px 130px;
@@ -142,7 +142,7 @@
   margin-right: auto;
 }
 .branda-admin-page .sui-wrap.sui-wrap-branda.branda-import-import .sui-header.branda-import-error {
-  background-image: url(/site/wp-content/plugins/branda-white-labeling/assets/assets/images/branda/confused@2x.png);
+  background-image: url(/wp-content/plugins/branda-white-labeling/assets/assets/images/branda/confused@2x.png);
 }
 .branda-admin-page .sui-wrap.sui-wrap-branda.branda-import-import .branda-import-err
 .sui-container {
@@ -163,7 +163,7 @@
   max-width: 200px;
 }
 .branda-admin-page .sui-wrap.sui-wrap-branda.branda-import-import.branda-import-error .sui-header {
-  background-image: url(/site/wp-content/plugins/branda-white-labeling/assets/assets/images/branda/confused@2x.png);
+  background-image: url(/wp-content/plugins/branda-white-labeling/assets/assets/images/branda/confused@2x.png);
 }
 .branda-admin-page .sui-wrap.sui-wrap-branda.sui-color-accessible #branda-dashboard-widget-modules span.branda-module-status {
   background-color: #fff;

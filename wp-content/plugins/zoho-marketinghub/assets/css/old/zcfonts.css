@@ -1,11 +1,11 @@
 /* $Id$ */
 @font-face {
   font-family: 'zcfonts';
-  src:  url("/site/wp-content/plugins/zoho-marketinghub/assets/css/old/fonts/zcfonts.eot?kxjlsh");
-  src:  url("/site/wp-content/plugins/zoho-marketinghub/assets/css/old/fonts/zcfonts.eot?kxjlsh#iefix") format('embedded-opentype'),
-    url("/site/wp-content/plugins/zoho-marketinghub/assets/css/old/fonts/zcfonts.ttf?kxjlsh") format('truetype'),
-    url("/site/wp-content/plugins/zoho-marketinghub/assets/css/old/fonts/zcfonts.woff?kxjlsh") format('woff'),
-    url("/site/wp-content/plugins/zoho-marketinghub/assets/css/old/fonts/zcfonts.svg?kxjlsh#zcfonts") format('svg');
+  src:  url("/wp-content/plugins/zoho-marketinghub/assets/css/old/fonts/zcfonts.eot?kxjlsh");
+  src:  url("/wp-content/plugins/zoho-marketinghub/assets/css/old/fonts/zcfonts.eot?kxjlsh#iefix") format('embedded-opentype'),
+    url("/wp-content/plugins/zoho-marketinghub/assets/css/old/fonts/zcfonts.ttf?kxjlsh") format('truetype'),
+    url("/wp-content/plugins/zoho-marketinghub/assets/css/old/fonts/zcfonts.woff?kxjlsh") format('woff'),
+    url("/wp-content/plugins/zoho-marketinghub/assets/css/old/fonts/zcfonts.svg?kxjlsh#zcfonts") format('svg');
   font-weight: normal;
   font-style: normal;
 }

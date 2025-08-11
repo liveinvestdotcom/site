@@ -990,7 +990,7 @@ ul {
   margin: -10px 0 0 -30px;
 }
 .zf-descFld blockquote.block_quote {
-  background: url("/site/wp-content/themes/live-invest/vendor/images/newQuote.gif") no-repeat scroll 12px 10px
+  background: url("/wp-content/themes/live-invest/vendor/images/newQuote.gif") no-repeat scroll 12px 10px
     rgba(0, 0, 0, 0);
   border-left: 3px solid #efefef;
   font: 13px/20px georgia, Arial, verdana, Helvetica, sans-serif;

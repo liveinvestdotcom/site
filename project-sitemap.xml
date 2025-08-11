@@ -1,475 +1,475 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/site/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/site/projects/</loc>
+		<loc>/projects/</loc>
 		<lastmod>2025-02-10T13:57:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/the-luxury-life-you-deserve/</loc>
+		<loc>/projects/the-luxury-life-you-deserve/</loc>
 		<lastmod>2023-06-08T13:25:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/an-elite-life/</loc>
+		<loc>/projects/an-elite-life/</loc>
 		<lastmod>2023-06-08T13:29:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-testament-to-architectural-excellence/</loc>
+		<loc>/projects/a-testament-to-architectural-excellence/</loc>
 		<lastmod>2023-06-08T13:31:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/your-home-between-the-sky-and-the-sea/</loc>
+		<loc>/projects/your-home-between-the-sky-and-the-sea/</loc>
 		<lastmod>2023-06-09T15:12:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/the-jewel-of-the-costa-del-sol/</loc>
+		<loc>/projects/the-jewel-of-the-costa-del-sol/</loc>
 		<lastmod>2023-06-09T16:19:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/exquisite-villa-nestled-in-the-heart-of-the-golf-valley/</loc>
+		<loc>/projects/exquisite-villa-nestled-in-the-heart-of-the-golf-valley/</loc>
 		<lastmod>2023-06-14T03:22:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/the-perfect-luxury-home/</loc>
+		<loc>/projects/the-perfect-luxury-home/</loc>
 		<lastmod>2023-06-20T20:56:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-statement-of-supreme-luxury/</loc>
+		<loc>/projects/a-statement-of-supreme-luxury/</loc>
 		<lastmod>2023-06-22T20:23:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-private-beach-right-on-your-doorstep/</loc>
+		<loc>/projects/a-private-beach-right-on-your-doorstep/</loc>
 		<lastmod>2023-06-30T22:26:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/affordable-luxury-living/</loc>
+		<loc>/projects/affordable-luxury-living/</loc>
 		<lastmod>2023-07-04T22:47:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/exclusivity-at-all-times/</loc>
+		<loc>/projects/exclusivity-at-all-times/</loc>
 		<lastmod>2023-07-12T23:40:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/live-a-resort-life-experience/</loc>
+		<loc>/projects/live-a-resort-life-experience/</loc>
 		<lastmod>2023-07-13T14:43:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/live-with-style-in-the-new-golden-mile/</loc>
+		<loc>/projects/live-with-style-in-the-new-golden-mile/</loc>
 		<lastmod>2023-07-13T16:24:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/casabellaresidences/</loc>
+		<loc>/projects/casabellaresidences/</loc>
 		<lastmod>2023-07-18T21:25:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/theelser/</loc>
+		<loc>/projects/theelser/</loc>
 		<lastmod>2023-07-18T22:15:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/600miami/</loc>
+		<loc>/projects/600miami/</loc>
 		<lastmod>2023-07-18T22:18:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/west-eleventh/</loc>
+		<loc>/projects/west-eleventh/</loc>
 		<lastmod>2023-07-18T22:23:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/domusbrickell/</loc>
+		<loc>/projects/domusbrickell/</loc>
 		<lastmod>2023-07-18T22:26:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/2200-brickell/</loc>
+		<loc>/projects/2200-brickell/</loc>
 		<lastmod>2023-07-19T00:01:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/theavenue-coralgables/</loc>
+		<loc>/projects/theavenue-coralgables/</loc>
 		<lastmod>2023-07-19T16:06:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/the-mediterranean-your-new-neighbour/</loc>
+		<loc>/projects/the-mediterranean-your-new-neighbour/</loc>
 		<lastmod>2023-07-20T14:53:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/signature-architecture-marbella/</loc>
+		<loc>/projects/signature-architecture-marbella/</loc>
 		<lastmod>2023-07-26T16:52:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/spectrum/</loc>
+		<loc>/projects/spectrum/</loc>
 		<lastmod>2023-07-26T21:20:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/sensational-frontline-golf/</loc>
+		<loc>/projects/sensational-frontline-golf/</loc>
 		<lastmod>2023-08-02T16:02:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/all-the-best-of-marbella-in-one-apartment/</loc>
+		<loc>/projects/all-the-best-of-marbella-in-one-apartment/</loc>
 		<lastmod>2023-08-02T16:02:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/luxury-and-exclusive-apartment-in-marbella/</loc>
+		<loc>/projects/luxury-and-exclusive-apartment-in-marbella/</loc>
 		<lastmod>2023-08-02T16:05:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/nexo/</loc>
+		<loc>/projects/nexo/</loc>
 		<lastmod>2023-08-09T15:56:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-new-way-of-living-in-playa-del-carmen-2/</loc>
+		<loc>/projects/a-new-way-of-living-in-playa-del-carmen-2/</loc>
 		<lastmod>2023-08-09T16:42:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/living-the-dream-in-the-caribbean-paradise/</loc>
+		<loc>/projects/living-the-dream-in-the-caribbean-paradise/</loc>
 		<lastmod>2023-08-09T16:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-space-to-live-in-harmony/</loc>
+		<loc>/projects/a-space-to-live-in-harmony/</loc>
 		<lastmod>2023-08-09T16:44:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-place-for-enjoying-the-caribbean-life/</loc>
+		<loc>/projects/a-place-for-enjoying-the-caribbean-life/</loc>
 		<lastmod>2023-08-09T16:44:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/make-the-best-memories-in-playa-del-carmen/</loc>
+		<loc>/projects/make-the-best-memories-in-playa-del-carmen/</loc>
 		<lastmod>2023-08-11T19:36:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/nature-and-luxury-in-the-golden-mile/</loc>
+		<loc>/projects/nature-and-luxury-in-the-golden-mile/</loc>
 		<lastmod>2023-08-17T12:34:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/elegant-luxury-villa/</loc>
+		<loc>/projects/elegant-luxury-villa/</loc>
 		<lastmod>2023-08-17T21:48:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/storey-park/</loc>
+		<loc>/projects/storey-park/</loc>
 		<lastmod>2023-08-17T22:07:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/72-park/</loc>
+		<loc>/projects/72-park/</loc>
 		<lastmod>2023-08-30T20:48:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-fantastic-investment-opportunity-located-in-marbella/</loc>
+		<loc>/projects/a-fantastic-investment-opportunity-located-in-marbella/</loc>
 		<lastmod>2023-09-11T16:27:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-new-contemporary-lifestyle-at-marbella/</loc>
+		<loc>/projects/a-new-contemporary-lifestyle-at-marbella/</loc>
 		<lastmod>2023-09-11T16:29:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/design-villa-in-a-top-location-in-marbella/</loc>
+		<loc>/projects/design-villa-in-a-top-location-in-marbella/</loc>
 		<lastmod>2023-09-11T16:30:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/luxury-views-to-the-mediterranean/</loc>
+		<loc>/projects/luxury-views-to-the-mediterranean/</loc>
 		<lastmod>2023-09-11T16:32:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/stunning-and-unique-lifestyle-at-marbella/</loc>
+		<loc>/projects/stunning-and-unique-lifestyle-at-marbella/</loc>
 		<lastmod>2023-09-11T16:32:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/welcome-to-gratitude-a-premium-property-that-is-more-than-just-a-pretty-facade/</loc>
+		<loc>/projects/welcome-to-gratitude-a-premium-property-that-is-more-than-just-a-pretty-facade/</loc>
 		<lastmod>2023-09-11T16:33:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/spectacular-townhouse-in-paradise/</loc>
+		<loc>/projects/spectacular-townhouse-in-paradise/</loc>
 		<lastmod>2023-09-14T16:53:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-new-way-of-living-in-playa-del-carmen/</loc>
+		<loc>/projects/a-new-way-of-living-in-playa-del-carmen/</loc>
 		<lastmod>2023-09-27T15:45:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/designed-for-your-maximum-comfort/</loc>
+		<loc>/projects/designed-for-your-maximum-comfort/</loc>
 		<lastmod>2023-09-27T15:46:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/at-the-centre-of-paradise-it-all-begins/</loc>
+		<loc>/projects/at-the-centre-of-paradise-it-all-begins/</loc>
 		<lastmod>2023-09-27T15:46:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/all-you-need-is-ocean-breeze/</loc>
+		<loc>/projects/all-you-need-is-ocean-breeze/</loc>
 		<lastmod>2023-09-27T15:47:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/live-in-a-tropical-jungle-paradise/</loc>
+		<loc>/projects/live-in-a-tropical-jungle-paradise/</loc>
 		<lastmod>2023-09-27T15:48:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/the-perfect-blend-of-nature-and-modern-architecture/</loc>
+		<loc>/projects/the-perfect-blend-of-nature-and-modern-architecture/</loc>
 		<lastmod>2023-09-27T15:48:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-project-for-your-inner-peace-and-mind/</loc>
+		<loc>/projects/a-project-for-your-inner-peace-and-mind/</loc>
 		<lastmod>2023-09-27T15:48:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/immerse-yourself-in-the-nature-of-tulum/</loc>
+		<loc>/projects/immerse-yourself-in-the-nature-of-tulum/</loc>
 		<lastmod>2023-09-27T15:51:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/lennar-cedar-pointe-houses/</loc>
+		<loc>/projects/lennar-cedar-pointe-houses/</loc>
 		<lastmod>2023-10-04T02:37:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/siena-reserve/</loc>
+		<loc>/projects/siena-reserve/</loc>
 		<lastmod>2023-10-04T02:39:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/attanaible-perfection/</loc>
+		<loc>/projects/attanaible-perfection/</loc>
 		<lastmod>2023-10-04T16:56:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/magnetic-villas/</loc>
+		<loc>/projects/magnetic-villas/</loc>
 		<lastmod>2023-10-04T17:00:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/kopok-the-soul-of-paradise/</loc>
+		<loc>/projects/kopok-the-soul-of-paradise/</loc>
 		<lastmod>2023-10-13T15:24:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/3-patios-the-perfect-synthesis/</loc>
+		<loc>/projects/3-patios-the-perfect-synthesis/</loc>
 		<lastmod>2023-10-13T15:37:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/xilb-kaab-mayan-heart/</loc>
+		<loc>/projects/xilb-kaab-mayan-heart/</loc>
 		<lastmod>2023-10-13T15:42:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/siwa-eleve-green-luxury/</loc>
+		<loc>/projects/siwa-eleve-green-luxury/</loc>
 		<lastmod>2023-10-13T16:40:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/aloha-vibes/</loc>
+		<loc>/projects/aloha-vibes/</loc>
 		<lastmod>2023-10-18T14:58:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/breeze-of-serenity/</loc>
+		<loc>/projects/breeze-of-serenity/</loc>
 		<lastmod>2023-10-31T17:49:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/waye/</loc>
+		<loc>/projects/waye/</loc>
 		<lastmod>2023-11-03T15:37:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/the-luxurious-white-ones/</loc>
+		<loc>/projects/the-luxurious-white-ones/</loc>
 		<lastmod>2023-11-09T02:41:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/the-king-of-luxury/</loc>
+		<loc>/projects/the-king-of-luxury/</loc>
 		<lastmod>2023-11-10T19:26:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/paravian-minimalist-freedom/</loc>
+		<loc>/projects/paravian-minimalist-freedom/</loc>
 		<lastmod>2023-11-13T15:46:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/greenview-corals-home-altamira/</loc>
+		<loc>/projects/greenview-corals-home-altamira/</loc>
 		<lastmod>2023-12-20T13:13:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/an-oasis-surrounded-by-nature-a-perfect-place-to-enjoy-complete-serenity/</loc>
+		<loc>/projects/an-oasis-surrounded-by-nature-a-perfect-place-to-enjoy-complete-serenity/</loc>
 		<lastmod>2023-12-28T13:12:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/discover-the-heart-of-estepona/</loc>
+		<loc>/projects/discover-the-heart-of-estepona/</loc>
 		<lastmod>2023-12-28T13:13:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/stunning-outdoor-spaces-to-be-happy/</loc>
+		<loc>/projects/stunning-outdoor-spaces-to-be-happy/</loc>
 		<lastmod>2023-12-28T13:14:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-home-with-a-great-present-and-a-spectacular-future/</loc>
+		<loc>/projects/a-home-with-a-great-present-and-a-spectacular-future/</loc>
 		<lastmod>2023-12-28T13:14:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/spectacular-views-just-for-you/</loc>
+		<loc>/projects/spectacular-views-just-for-you/</loc>
 		<lastmod>2023-12-28T13:15:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/the-modern-house-you-need/</loc>
+		<loc>/projects/the-modern-house-you-need/</loc>
 		<lastmod>2023-12-28T13:15:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/enjoy-the-serenity-of-estepona/</loc>
+		<loc>/projects/enjoy-the-serenity-of-estepona/</loc>
 		<lastmod>2023-12-28T13:17:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/an-atractive-lifestyle-in-estepona/</loc>
+		<loc>/projects/an-atractive-lifestyle-in-estepona/</loc>
 		<lastmod>2023-12-28T13:20:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/this-place-has-a-name-and-you-are-the-only-one-missing/</loc>
+		<loc>/projects/this-place-has-a-name-and-you-are-the-only-one-missing/</loc>
 		<lastmod>2023-12-28T13:21:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/your-new-home-near-the-beach/</loc>
+		<loc>/projects/your-new-home-near-the-beach/</loc>
 		<lastmod>2023-12-28T13:22:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-complete-immersion-in-the-dunique-lifestyle/</loc>
+		<loc>/projects/a-complete-immersion-in-the-dunique-lifestyle/</loc>
 		<lastmod>2023-12-28T13:22:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/pure-life-on-the-costa-del-sol/</loc>
+		<loc>/projects/pure-life-on-the-costa-del-sol/</loc>
 		<lastmod>2023-12-28T13:23:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/enjoy-the-mediterranean-lifestyle/</loc>
+		<loc>/projects/enjoy-the-mediterranean-lifestyle/</loc>
 		<lastmod>2023-12-28T13:26:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/your-new-home-at-costa-del-sols-heart/</loc>
+		<loc>/projects/your-new-home-at-costa-del-sols-heart/</loc>
 		<lastmod>2023-12-28T13:27:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/live-in-luxury-at-the-foot-of-the-best-golf-courses-in-europe/</loc>
+		<loc>/projects/live-in-luxury-at-the-foot-of-the-best-golf-courses-in-europe/</loc>
 		<lastmod>2023-12-28T13:28:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/make-your-dream-come-true-mijas/</loc>
+		<loc>/projects/make-your-dream-come-true-mijas/</loc>
 		<lastmod>2023-12-28T13:29:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/exclusive-design-in-estepona/</loc>
+		<loc>/projects/exclusive-design-in-estepona/</loc>
 		<lastmod>2023-12-28T13:30:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/the-jewel-of-design-in-estepona/</loc>
+		<loc>/projects/the-jewel-of-design-in-estepona/</loc>
 		<lastmod>2023-12-28T13:30:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/paradise-has-just-knocked-on-your-door/</loc>
+		<loc>/projects/paradise-has-just-knocked-on-your-door/</loc>
 		<lastmod>2023-12-28T13:31:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/golden-views/</loc>
+		<loc>/projects/golden-views/</loc>
 		<lastmod>2023-12-28T13:32:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/live-in-a-consolidated-area-only-a-few-minutes-from-the-beach/</loc>
+		<loc>/projects/live-in-a-consolidated-area-only-a-few-minutes-from-the-beach/</loc>
 		<lastmod>2023-12-28T13:33:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/your-private-oasis/</loc>
+		<loc>/projects/your-private-oasis/</loc>
 		<lastmod>2023-12-28T13:35:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-place-to-relax-and-pamper-yourself/</loc>
+		<loc>/projects/a-place-to-relax-and-pamper-yourself/</loc>
 		<lastmod>2023-12-28T13:35:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/enjoy-the-infinite-sunset/</loc>
+		<loc>/projects/enjoy-the-infinite-sunset/</loc>
 		<lastmod>2023-12-28T13:36:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/exclusive-apartment-complex/</loc>
+		<loc>/projects/exclusive-apartment-complex/</loc>
 		<lastmod>2023-12-28T13:46:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/an-extraordinary-life-collection/</loc>
+		<loc>/projects/an-extraordinary-life-collection/</loc>
 		<lastmod>2023-12-28T13:47:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-natural-environment-with-spectacular-scenery/</loc>
+		<loc>/projects/a-natural-environment-with-spectacular-scenery/</loc>
 		<lastmod>2023-12-28T13:48:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/the-life-youve-always-dream-of/</loc>
+		<loc>/projects/the-life-youve-always-dream-of/</loc>
 		<lastmod>2023-12-28T13:49:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/enjoy-panoramic-views-over-the-golf-course/</loc>
+		<loc>/projects/enjoy-panoramic-views-over-the-golf-course/</loc>
 		<lastmod>2023-12-28T13:50:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/a-life-with-views-into-the-horizon/</loc>
+		<loc>/projects/a-life-with-views-into-the-horizon/</loc>
 		<lastmod>2023-12-28T13:51:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/eclectic-design/</loc>
+		<loc>/projects/eclectic-design/</loc>
 		<lastmod>2023-12-28T13:55:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/terralux/</loc>
+		<loc>/projects/terralux/</loc>
 		<lastmod>2024-01-05T20:44:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/solara-bay/</loc>
+		<loc>/projects/solara-bay/</loc>
 		<lastmod>2024-01-05T20:51:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/unperceived-reality/</loc>
+		<loc>/projects/unperceived-reality/</loc>
 		<lastmod>2024-01-05T21:16:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/solstice-oasis-villas/</loc>
+		<loc>/projects/solstice-oasis-villas/</loc>
 		<lastmod>2024-01-22T17:52:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/sunny-vanguard/</loc>
+		<loc>/projects/sunny-vanguard/</loc>
 		<lastmod>2024-01-22T18:05:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/golf-garden/</loc>
+		<loc>/projects/golf-garden/</loc>
 		<lastmod>2024-01-22T18:34:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/luxurious-comfort-oasis/</loc>
+		<loc>/projects/luxurious-comfort-oasis/</loc>
 		<lastmod>2024-01-22T18:52:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/golden-triangle/</loc>
+		<loc>/projects/golden-triangle/</loc>
 		<lastmod>2024-01-22T19:29:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/steps-to-the-sun/</loc>
+		<loc>/projects/steps-to-the-sun/</loc>
 		<lastmod>2024-01-22T19:36:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/golf-view/</loc>
+		<loc>/projects/golf-view/</loc>
 		<lastmod>2024-01-22T20:13:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/tech-haven/</loc>
+		<loc>/projects/tech-haven/</loc>
 		<lastmod>2024-01-22T20:32:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/sea-salt-and-palmers/</loc>
+		<loc>/projects/sea-salt-and-palmers/</loc>
 		<lastmod>2024-01-22T20:37:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/at-the-mediterraneans-feet/</loc>
+		<loc>/projects/at-the-mediterraneans-feet/</loc>
 		<lastmod>2024-01-22T20:46:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/sea-view/</loc>
+		<loc>/projects/sea-view/</loc>
 		<lastmod>2024-02-07T13:14:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/luxury-oasis/</loc>
+		<loc>/projects/luxury-oasis/</loc>
 		<lastmod>2024-03-13T12:32:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/coastal-oasis/</loc>
+		<loc>/projects/coastal-oasis/</loc>
 		<lastmod>2024-04-03T17:32:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/cortijo/</loc>
+		<loc>/projects/cortijo/</loc>
 		<lastmod>2024-07-15T19:41:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/the-place/</loc>
+		<loc>/projects/the-place/</loc>
 		<lastmod>2024-10-21T14:48:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/luxury-at-its-best-because-you-deserve-nothing-less/</loc>
+		<loc>/projects/luxury-at-its-best-because-you-deserve-nothing-less/</loc>
 		<lastmod>2025-02-10T13:53:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/projects/frontline-beach-residences/</loc>
+		<loc>/projects/frontline-beach-residences/</loc>
 		<lastmod>2025-02-10T13:57:30+00:00</lastmod>
 	</url>
 </urlset>

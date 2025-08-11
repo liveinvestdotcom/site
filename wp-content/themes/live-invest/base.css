@@ -758,7 +758,7 @@ button,
   position: relative;
   overflow: hidden;
   background-color: #ffffff;
-  background-image: url(/site/wp-content/themes/live-invest/assets/images/circle-logo.svg);
+  background-image: url(/wp-content/themes/live-invest/assets/images/circle-logo.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 5rem 5rem;
@@ -913,7 +913,7 @@ button,
   right: 0;
   width: 9.125rem;
   height: 9.125rem;
-  background: transparent url(/site/wp-content/themes/live-invest/assets/images/circle-arrow-white.svg) no-repeat
+  background: transparent url(/wp-content/themes/live-invest/assets/images/circle-arrow-white.svg) no-repeat
     center;
   background-size: cover;
   transform: translate(40%, 40%);
@@ -1250,7 +1250,7 @@ picture > img {
   position: absolute;
   bottom: 5.625rem;
   right: 4.375rem;
-  background: transparent url(/site/wp-content/themes/live-invest/assets/images/circle-logo-white.svg) no-repeat
+  background: transparent url(/wp-content/themes/live-invest/assets/images/circle-logo-white.svg) no-repeat
     center;
   background-size: cover;
   z-index: 1;
@@ -1279,7 +1279,7 @@ picture > img {
   position: absolute;
   width: 8.4375rem;
   height: 8.4375rem;
-  background: transparent url(/site/wp-content/themes/live-invest/assets/images/circle-arrow-black.svg) no-repeat
+  background: transparent url(/wp-content/themes/live-invest/assets/images/circle-arrow-black.svg) no-repeat
     center;
   background-size: cover;
   left: 0;
@@ -1294,7 +1294,7 @@ picture > img {
   height: 14.0625rem;
   display: block;
   content: "";
-  background: transparent url(/site/wp-content/themes/live-invest/assets/images/circle-logo.svg) no-repeat center;
+  background: transparent url(/wp-content/themes/live-invest/assets/images/circle-logo.svg) no-repeat center;
   background-size: cover;
 }
 
@@ -1793,7 +1793,7 @@ picture > img {
   width: 100%;
   height: 27.875rem;
   background-color: #ffffff;
-  background-image: url(/site/wp-content/themes/live-invest/assets/images/circle-logo.svg);
+  background-image: url(/wp-content/themes/live-invest/assets/images/circle-logo.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 10rem 10rem;

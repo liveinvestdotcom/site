@@ -16,13 +16,13 @@
   background: transparent none no-repeat 50%;
 }
 .branda-admin-page .sui-wrap-branda .branda-maintenance-template .branda-countdown.branda-countdown-flipclock {
-  background-image: url(/site/wp-content/plugins/branda-white-labeling/inc/modules/utilities/assets/images/flipclock.png);
+  background-image: url(/wp-content/plugins/branda-white-labeling/inc/modules/utilities/assets/images/flipclock.png);
 }
 .branda-admin-page .sui-wrap-branda .branda-maintenance-template .branda-countdown.branda-countdown-final-countdown {
-  background-image: url(/site/wp-content/plugins/branda-white-labeling/inc/modules/utilities/assets/images/final-countdown.png);
+  background-image: url(/wp-content/plugins/branda-white-labeling/inc/modules/utilities/assets/images/final-countdown.png);
 }
 .branda-admin-page .sui-wrap-branda .branda-maintenance-template .branda-countdown.branda-countdown-raw {
-  background-image: url(/site/wp-content/plugins/branda-white-labeling/inc/modules/utilities/assets/images/raw.png);
+  background-image: url(/wp-content/plugins/branda-white-labeling/inc/modules/utilities/assets/images/raw.png);
 }
 .branda-admin-page .sui-wrap-branda .branda-settings-tab-content-maintenance .branda-maintenance-error-message .sui-box-body {
   padding-top: 0;

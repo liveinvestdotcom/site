@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "vx-fonts";
-  src:url("/site/wp-content/plugins/cf7-zoho-pro/css/fonts/vx-fonts.eot");
-  src:url("/site/wp-content/plugins/cf7-zoho-pro/css/fonts/vx-fonts.eot#iefix") format("embedded-opentype"),
-    url("/site/wp-content/plugins/cf7-zoho-pro/css/fonts/vx-fonts.woff") format("woff"),
-    url("/site/wp-content/plugins/cf7-zoho-pro/css/fonts/vx-fonts.ttf") format("truetype"),
-    url("/site/wp-content/plugins/cf7-zoho-pro/css/fonts/vx-fonts.svg#vx-fonts") format("svg");
+  src:url("/wp-content/plugins/cf7-zoho-pro/css/fonts/vx-fonts.eot");
+  src:url("/wp-content/plugins/cf7-zoho-pro/css/fonts/vx-fonts.eot#iefix") format("embedded-opentype"),
+    url("/wp-content/plugins/cf7-zoho-pro/css/fonts/vx-fonts.woff") format("woff"),
+    url("/wp-content/plugins/cf7-zoho-pro/css/fonts/vx-fonts.ttf") format("truetype"),
+    url("/wp-content/plugins/cf7-zoho-pro/css/fonts/vx-fonts.svg#vx-fonts") format("svg");
   font-weight: normal;
   font-style: normal;
 

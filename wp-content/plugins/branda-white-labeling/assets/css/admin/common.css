@@ -26,11 +26,11 @@
   margin: 30px auto;
 }
 .branda-admin-page .sui-wrap-branda .branda-empty h2.branda-image.branda-image-confused:before {
-  background-image: url(/site/wp-content/plugins/branda-white-labeling/assets/css/images/branda/empty-office-tray.png);
+  background-image: url(/wp-content/plugins/branda-white-labeling/assets/css/images/branda/empty-office-tray.png);
 }
 
 .branda-admin-page .sui-wrap-branda .branda-empty h2.branda-image.branda-image-empty:before {
-  background-image: url(/site/wp-content/plugins/branda-white-labeling/assets/css/images/branda/empty-office-tray.png);
+  background-image: url(/wp-content/plugins/branda-white-labeling/assets/css/images/branda/empty-office-tray.png);
 }
 
 .branda-admin-page .sui-wrap-branda .branda-divider {
@@ -78,7 +78,7 @@
 }
 .branda-admin-page .sui-wrap-branda .sui-modal.sui-modal-sm.branda-test-email .sui-box .sui-box-footer {
   padding-bottom: 210px;
-  background-image: url(/site/wp-content/plugins/branda-white-labeling/assets/css/images/branda/happy@2x.png);
+  background-image: url(/wp-content/plugins/branda-white-labeling/assets/css/images/branda/happy@2x.png);
   background-repeat: no-repeat;
   background-position: 50% 100%;
   background-size: 140px auto;

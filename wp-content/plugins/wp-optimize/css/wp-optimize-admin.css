@@ -967,7 +967,7 @@ body.rtl .wpo-page {
   padding: 15px 20px;
   margin-top: 30px;
   margin-bottom: 30px;
-  background: #FFF url("/site/wp-content/plugins/wp-optimize/images/notices/logo-bg-notice.png") no-repeat 100% 100%;
+  background: #FFF url("/wp-content/plugins/wp-optimize/images/notices/logo-bg-notice.png") no-repeat 100% 100%;
 }
 .wpo-introduction-notice h3 {
   font-size: 2em;

@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/site/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/site/page-sitemap.xml</loc>
+		<loc>/page-sitemap.xml</loc>
 		<lastmod>2024-04-30T15:02:10+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/site/project-sitemap.xml</loc>
+		<loc>/project-sitemap.xml</loc>
 		<lastmod>2025-02-10T13:57:30+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/site/location-sitemap.xml</loc>
+		<loc>/location-sitemap.xml</loc>
 		<lastmod>2023-06-12T18:31:21+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/site/neighbourhood-sitemap.xml</loc>
+		<loc>/neighbourhood-sitemap.xml</loc>
 		<lastmod>2023-06-09T20:15:46+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

@@ -29,7 +29,7 @@ body, .body_style {
 }
 .content_main {
 	border:1px solid #cccccc;
-	background:url('/site/wp-content/plugins/branda-white-labeling/inc/modules/emails/templates/Handwritten/HEADER_BG_IMAGE') top right no-repeat #ffffff;
+	background:url('/wp-content/plugins/branda-white-labeling/inc/modules/emails/templates/Handwritten/HEADER_BG_IMAGE') top right no-repeat #ffffff;
 }
 
 

@@ -5,7 +5,7 @@ textarea.clipboard{min-height:35px;}
     box-sizing: border-box;
 }
 .cf7-ds-clipboard-icon{
-    background-image: url(/site/wp-content/plugins/cf7-data-source/add-ons/complementary-controls.addon/controls/copy-to-clipboard/icon.svg);
+    background-image: url(/wp-content/plugins/cf7-data-source/add-ons/complementary-controls.addon/controls/copy-to-clipboard/icon.svg);
     background-color: #fff;
     background-repeat: no-repeat;
     background-size: contain;

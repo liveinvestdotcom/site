@@ -18,7 +18,7 @@
   padding-right: 0;
 }
 .branda-admin-page .sui-wrap.sui-wrap-branda .branda-custom-admin-menu-dialog .branda-admin-menu-main-tabs > .sui-tabs-content > .sui-tab-boxed[data-tab-content="settings"] > .sui-row:first-child > div:first-child {
-  background: url("/site/wp-content/plugins/branda-white-labeling/assets/images/branda/happy@1x.png") 50% 10%/90px no-repeat;
+  background: url("/wp-content/plugins/branda-white-labeling/assets/images/branda/happy@1x.png") 50% 10%/90px no-repeat;
 }
 .branda-admin-page .sui-wrap.sui-wrap-branda .branda-custom-admin-menu-dialog .sui-box-builder > .sui-box-builder-header {
   padding-left: 70px;

@@ -1406,7 +1406,7 @@ s
     display: block;
 }
 .zmhloading{
-    background:url(/site/wp-content/plugins/zoho-marketinghub/assets/images/loader.gif) center center no-repeat;
+    background:url(/wp-content/plugins/zoho-marketinghub/assets/images/loader.gif) center center no-repeat;
     height: 210px;
     background-size: 250px;
 }

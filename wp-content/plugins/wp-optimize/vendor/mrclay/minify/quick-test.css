@@ -3,7 +3,7 @@
  * http://example.org/min/f=min/quick-test.css
  */
 
-@import     url( /site/wp-content/plugins/wp-optimize/vendor/mrclay/minify/more.css);
+@import     url( /wp-content/plugins/wp-optimize/vendor/mrclay/minify/more.css);
 
     body, td, th {
         font-family: Verdana , "Bitstream Vera Sans" , Arial Narrow, sans-serif ;

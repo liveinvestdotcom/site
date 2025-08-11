@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/site/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/site/neighbourhoods/</loc>
+		<loc>/neighbourhoods/</loc>
 		<lastmod>2023-06-09T20:15:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/neighbourhoods/marbella-spain/</loc>
+		<loc>/neighbourhoods/marbella-spain/</loc>
 		<lastmod>2023-06-07T03:46:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/neighbourhoods/manilva-spain/</loc>
+		<loc>/neighbourhoods/manilva-spain/</loc>
 		<lastmod>2023-06-07T03:46:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/neighbourhoods/sotogrande-spain/</loc>
+		<loc>/neighbourhoods/sotogrande-spain/</loc>
 		<lastmod>2023-06-07T03:46:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/neighbourhoods/fuengirola-spain/</loc>
+		<loc>/neighbourhoods/fuengirola-spain/</loc>
 		<lastmod>2023-06-07T03:46:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/neighbourhoods/mijas-spain/</loc>
+		<loc>/neighbourhoods/mijas-spain/</loc>
 		<lastmod>2023-06-07T03:46:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/neighbourhoods/casares-spain/</loc>
+		<loc>/neighbourhoods/casares-spain/</loc>
 		<lastmod>2023-06-07T03:46:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/neighbourhoods/benalmadena-spain/</loc>
+		<loc>/neighbourhoods/benalmadena-spain/</loc>
 		<lastmod>2023-06-07T03:46:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/neighbourhoods/benahavis-spain/</loc>
+		<loc>/neighbourhoods/benahavis-spain/</loc>
 		<lastmod>2023-06-07T03:46:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/neighbourhoods/estepona-spain/</loc>
+		<loc>/neighbourhoods/estepona-spain/</loc>
 		<lastmod>2023-06-07T03:46:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/neighbourhoods/orlando-usa/</loc>
+		<loc>/neighbourhoods/orlando-usa/</loc>
 		<lastmod>2023-06-09T20:13:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/neighbourhoods/miami-usa/</loc>
+		<loc>/neighbourhoods/miami-usa/</loc>
 		<lastmod>2023-06-09T20:14:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/neighbourhoods/playa-del-carmen-mexico/</loc>
+		<loc>/neighbourhoods/playa-del-carmen-mexico/</loc>
 		<lastmod>2023-06-09T20:15:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/site/neighbourhoods/tulum-mexico/</loc>
+		<loc>/neighbourhoods/tulum-mexico/</loc>
 		<lastmod>2023-06-09T20:15:46+00:00</lastmod>
 	</url>
 </urlset>

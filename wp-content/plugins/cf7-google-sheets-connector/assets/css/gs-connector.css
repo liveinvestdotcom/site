@@ -44,7 +44,7 @@ background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(254,254,254,1) 
     bottom: 30px;
 }
 .gsheet-header .gsheet-logo i {
-  background:url(/site/wp-content/plugins/cf7-google-sheets-connector/assets/img/gsheet-logo.svg) no-repeat center !important;
+  background:url(/wp-content/plugins/cf7-google-sheets-connector/assets/img/gsheet-logo.svg) no-repeat center !important;
   background-size:25px 35px !important;
   display:block;  
 }
@@ -256,7 +256,7 @@ a.nav-tab.nav-tab-active {
 
 
 .loading{
-   background-image: url( "/site/wp-content/plugins/cf7-google-sheets-connector/assets/img/ajax-loader.gif");
+   background-image: url( "/wp-content/plugins/cf7-google-sheets-connector/assets/img/ajax-loader.gif");
    background-position: 50% 80%;
    background-repeat: no-repeat;
    width:10px;
@@ -383,7 +383,7 @@ debug-clear {
    margin: 15px auto;
    width: 150px;
    height: 30px;
-   background: url(/site/wp-content/plugins/cf7-google-sheets-connector/assets/img/stars.svg);
+   background: url(/wp-content/plugins/cf7-google-sheets-connector/assets/img/stars.svg);
    animation: cf7gs-stars 4.5s steps(1, end) infinite;
    -webkit-animation: cf7gs-stars 4.5s steps(1, end) infinite;
    -moz-animation: cf7gs-stars 4.5s steps(1, end) infinite;
@@ -1155,22 +1155,22 @@ a:hover.cf7_gs_link {
 }
 
 .icons-oneclick {
-  background:url(/site/wp-content/plugins/cf7-google-sheets-connector/assets/img/icon-oneclick.png) no-repeat center;
+  background:url(/wp-content/plugins/cf7-google-sheets-connector/assets/img/icon-oneclick.png) no-repeat center;
 }
 .icons-fetch {
-  background:url(/site/wp-content/plugins/cf7-google-sheets-connector/assets/img/icon-fetch.png) no-repeat center;
+  background:url(/wp-content/plugins/cf7-google-sheets-connector/assets/img/icon-fetch.png) no-repeat center;
 }
 .icons-api {
-  background:url(/site/wp-content/plugins/cf7-google-sheets-connector/assets/img/icon-api.png) no-repeat center;
+  background:url(/wp-content/plugins/cf7-google-sheets-connector/assets/img/icon-api.png) no-repeat center;
 }
 .icon-map {
-  background:url(/site/wp-content/plugins/cf7-google-sheets-connector/assets/img/icon-map.png) no-repeat center; 
+  background:url(/wp-content/plugins/cf7-google-sheets-connector/assets/img/icon-map.png) no-repeat center; 
 }
 .icon-quick {
-  background:url(/site/wp-content/plugins/cf7-google-sheets-connector/assets/img/icon-quick.png) no-repeat center; 
+  background:url(/wp-content/plugins/cf7-google-sheets-connector/assets/img/icon-quick.png) no-repeat center; 
 }
 .icon-multisite {
-  background:url(/site/wp-content/plugins/cf7-google-sheets-connector/assets/img/icon-multisite.png) no-repeat center; 
+  background:url(/wp-content/plugins/cf7-google-sheets-connector/assets/img/icon-multisite.png) no-repeat center; 
 }
 
 .button-bar {
